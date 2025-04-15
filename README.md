@@ -47,4 +47,4 @@ The objective of this project was to:
   - Demographic metadata for each test subject
 
 ---
-Class activites were used as examples, as well as, ChatGPT was used for conceptual support.
+Class activites were used as examples, as well as, ChatGPT was used for conceptual support (support with d3).
