@@ -31,15 +31,13 @@ The objective of this project was to:
 
 - HTML5 & CSS3
 - JavaScript (ES6+)
-- [D3.js](https://d3js.org/) – Data manipulation and DOM interaction
-- [Plotly.js](https://plotly.com/javascript/) – Interactive charting library
-- [Bootstrap 5](https://getbootstrap.com/) – Styling and responsive layout
+- D3.js– Data manipulation and DOM interaction
+- Plotly.js – Interactive charting library
 
 ---
 
 ## Dataset
 
-- Source: [Belly Button Biodiversity dataset](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json)
 - Contains:
   - Subject IDs
   - Microbial species (OTUs) per sample
